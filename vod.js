@@ -1,4 +1,7 @@
 
+$(function() {
+    getVerse();
+});
 
 $("#btnGenerate").click(function () {
 
